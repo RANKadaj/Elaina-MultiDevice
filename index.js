@@ -1,4 +1,4 @@
-console.log('🐾 Starting...')
+console.log('SABAR KONTOLLL LAGI LOADING TOLOL')
 
 import yargs from 'yargs'
 import cfonts from 'cfonts'
